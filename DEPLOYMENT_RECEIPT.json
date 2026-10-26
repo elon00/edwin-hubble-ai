@@ -1,0 +1,14 @@
+{
+  "project": "edwin-hubble-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "4WMhVUuRemc9NYQjFx41vhF5vxYDkGugBM3Rz7hiAKZd",
+  "vault_account": "GjFXt2rdwu8aa6ZySyMXwqKLMgfTqfv313VuWguwSvCV",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "2jgxNr2XNDzmEXCr82XGnDZ2am4hzNLEZQgmh6rjpw2kmZM4LxkpZxV9X6m2DCPhgeTbHku4rDGoNg3mKA6KAW1D",
+  "account_tx": "3AuwWfhqmi9rT3zniGF4s8eKdSMNADDhEdLHQuZTsktWo3cWVTWDgX5N8R1dJDENYeddgAWuXqvpS5U8MA5FAY8C",
+  "mint_tx": "5wipYy19N4tdTtQA5vHqmtLAfULYSiHVUt9iW62Rx59USjwFFYYsyX3AovWL2K3mLEyUzNzHzf46q599cnPK4jA3",
+  "solana_explorer_mint": "https://explorer.solana.com/address/4WMhVUuRemc9NYQjFx41vhF5vxYDkGugBM3Rz7hiAKZd?cluster=devnet",
+  "timestamp": "2026-10-26 16:28:44 UTC"
+}
